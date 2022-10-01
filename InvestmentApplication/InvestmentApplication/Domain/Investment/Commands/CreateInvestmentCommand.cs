@@ -1,15 +1,12 @@
 ﻿using CSharpFunctionalExtensions;
 using MediatR;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace InvestmentApplication.Domain.Investment.Commands
 {
     public sealed class CreateInvestmentCommand : IRequest<Result>
     {
+        public int InvestmentId { get; private set; }
         public string AssetName { get; private set; }
         public DateTime OperationDate { get; private set; }
         public char OperationType { get; private set; }
@@ -17,8 +14,9 @@ namespace InvestmentApplication.Domain.Investment.Commands
         public decimal AssetUnitPrice { get; private set; }
         public decimal TransactionTaxes { get; private set; }
 
-        public CreateInvestmentCommand(string assetName, DateTime operationDate, char operationType, decimal operationAmount, decimal assetUnitPrice, decimal transactionTaxes)
+        public CreateInvestmentCommand(int investmentId, string assetName, DateTime operationDate, char operationType, decimal operationAmount, decimal assetUnitPrice, decimal transactionTaxes)
         {
+            InvestmentId = investmentId;
             AssetName = assetName;
             OperationDate = operationDate;
             OperationType = operationType;
