@@ -7,9 +7,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{962E2C23-C24
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9E60C343-58A8-4512-BCB7-A7473FB89EE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestmentApplication", "InvestmentApplication\InvestmentApplication.csproj", "{8ED674F9-49EA-4C2C-9B9C-DD863CBC08D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvestmentApplication", "InvestmentApplication\InvestmentApplication.csproj", "{8ED674F9-49EA-4C2C-9B9C-DD863CBC08D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestmentApplication.WebApi", "InvestmentApplication.WebApi\InvestmentApplication.WebApi.csproj", "{2089E5C3-F87E-40C2-B942-FB5F501D10E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvestmentApplication.WebApi", "InvestmentApplication.WebApi\InvestmentApplication.WebApi.csproj", "{2089E5C3-F87E-40C2-B942-FB5F501D10E2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8ED674F9-49EA-4C2C-9B9C-DD863CBC08D4} = {8ED674F9-49EA-4C2C-9B9C-DD863CBC08D4}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

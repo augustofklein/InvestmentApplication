@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "W0RrjlPhehlVu2UINIsYnqUCu8AxdMMtjwrUTBtNqzCOkM4eN9WyksyUlID/0QSwadrDfwivGM9T9vSjxFQHmA==",
+  "dgSpecHash": "Y9DBWZbj6V8qbE295/rCUj/It79D9NtP7BoEJQxG+6fIbLjK7/S2lZklbkPLHL4ZdsyB2zhUYmeyTQKRFbJv3g==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\InvestmentApplication\\InvestmentApplication\\InvestmentApplication.WebApi\\InvestmentApplication.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\augus\\.nuget\\packages\\csharpfunctionalextensions\\2.34.3\\csharpfunctionalextensions.2.34.3.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",

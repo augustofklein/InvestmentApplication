@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "95McjrZatKlTTi1Imy0soS3bFQlvnOMgUmDMeWPIsbAF9Xga3iKFVF5go11SVoiAD0RQLBYL/ETWkjFsx7Ybng==",
+  "dgSpecHash": "O9IOrR1KWvWc/qgCtO4jVFgIfS7//mBzxKXxV7narAU0MkbCEesinjr0mKSCjxWp801hnWHKjANI+IbPmAwR3g==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\InvestmentApplication\\InvestmentApplication\\InvestmentApplication\\InvestmentApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\augus\\.nuget\\packages\\csharpfunctionalextensions\\2.34.3\\csharpfunctionalextensions.2.34.3.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
