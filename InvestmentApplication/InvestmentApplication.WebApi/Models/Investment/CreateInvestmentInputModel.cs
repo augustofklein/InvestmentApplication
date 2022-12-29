@@ -27,7 +27,7 @@ namespace InvestmentApplication.WebApi.Models.Investment
 
         public Result<CreateInvestmentCommand> CreateCommand()
         {
-            var investmentApplicationCommand = new CreateInvestmentCommand(investmentId, AssetName, OperationDate, OperationType, OperationAmount, AssetUnitPrice, TransactionTaxes);
+            var investmentApplicationCommand = new CreateInvestmentCommand(InvestmentId, AssetName, OperationDate, OperationType, OperationAmount, AssetUnitPrice, TransactionTaxes);
             return investmentApplicationCommand;
         }
     }

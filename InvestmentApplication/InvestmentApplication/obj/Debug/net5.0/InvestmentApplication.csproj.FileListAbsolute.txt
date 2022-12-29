@@ -5,8 +5,8 @@ C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\ob
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\obj\Debug\net5.0\InvestmentApplication.csproj.CoreCompileInputs.cache
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\bin\Debug\net5.0\InvestmentApplication.deps.json
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\bin\Debug\net5.0\InvestmentApplication.dll
-C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\bin\Debug\net5.0\ref\InvestmentApplication.dll
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\bin\Debug\net5.0\InvestmentApplication.pdb
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\obj\Debug\net5.0\InvestmentApplication.dll
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\obj\Debug\net5.0\ref\InvestmentApplication.dll
 C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\obj\Debug\net5.0\InvestmentApplication.pdb
+C:\Projetos\InvestmentApplication\InvestmentApplication\InvestmentApplication\obj\Debug\net5.0\refint\InvestmentApplication.dll
